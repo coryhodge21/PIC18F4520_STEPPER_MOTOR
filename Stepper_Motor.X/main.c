@@ -163,7 +163,7 @@ static const bool FALSE = false;
 /**
  * General Functions to set up Chip and PORTS
  */
-#include "4GeneralFunctions.h"
+#include "generalFunctions.h"
 
 /**
  * Project Functions specific to program
